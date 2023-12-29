@@ -14,6 +14,4 @@ if you == "rock" and opp == "scissor" or you == "paper" and opp == "rock" or you
 elif you == "paper" and opp == "rock" or you == "rock" and opp == "paper" or you == "scissor" or opp == "rock":
     print("You lose!")
 else:
-    print("It is a draw!")
-
-
+    print("It's a draw!")
