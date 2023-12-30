@@ -1,4 +1,4 @@
 def greeting():
     name = input("Enter your name: ")
     print(f"Hello, {name}")
-    print("Version 5")
+    print("Version 6")
